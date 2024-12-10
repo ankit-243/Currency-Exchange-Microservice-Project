@@ -1,0 +1,5 @@
+package com.microservices.currency_exchange_service.controller;
+
+public class CicuitBreakerController {
+
+}

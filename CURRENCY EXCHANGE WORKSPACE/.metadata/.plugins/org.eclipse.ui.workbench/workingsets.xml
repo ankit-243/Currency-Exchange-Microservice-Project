@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724648240063_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724648240089_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724648281083_3" label="currency-exchange-service" name="currency-exchange-service">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/currency-exchange-service" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724666681757_4" label="currency-conversion-service" name="currency-conversion-service">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/currency-conversion-service" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724898001140_5" label="naming-server" name="naming-server">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/naming-server" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724924718151_6" label="api-gatway" name="api-gatway">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/api-gatway" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724648241281_2" label="Window Working Set" name="Aggregate for window 1724648241280"/>
+</workingSetManager>

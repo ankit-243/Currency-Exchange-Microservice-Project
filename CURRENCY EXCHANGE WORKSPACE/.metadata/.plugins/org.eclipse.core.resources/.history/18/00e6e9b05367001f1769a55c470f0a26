@@ -1,0 +1,5 @@
+package com.microservices.api_gatway.configuration;
+
+public class LoggingFilter {
+
+}
